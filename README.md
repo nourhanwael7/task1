@@ -45,20 +45,6 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
 
-API docs:
-- Swagger UI: `http://127.0.0.1:8000/docs`
-- Redoc: `http://127.0.0.1:8000/redoc`
-
-## Environment Variables
-
-Create `.env` file (optional):
-
-```env
-MONGO_URI=mongodb://localhost:27017
-MONGO_DB_NAME=school
-MONGO_COLLECTION_NAME=students
-```
-
 ## Endpoints
 
 ### 1) Insert
