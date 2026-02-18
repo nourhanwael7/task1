@@ -7,7 +7,6 @@ A clean, organized FastAPI project with **4 endpoints** for students:
 3. Update student
 4. Delete student
 
-> No Docker required.
 
 ## Stack
 
